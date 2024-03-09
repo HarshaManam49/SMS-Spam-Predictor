@@ -6,7 +6,7 @@
 ### Workflow
 >1)Preprocessed data using nltk library  
 >2)Used bag-of-words model TFidf to represent text in numerical values  
->3)Model is selected on basis of high precision metric to reduce number Type 1 errors
+>3) The model is selected on the basis of high-precision metric to reduce the number of Type 1 errors
 
 ### Libraries used
 >Nltk  
@@ -19,7 +19,7 @@
 
 
  
-To use webapp, download zip and run below commands  
+To use the web app, download the zip, extract it and run the below commands  
 >1)'pip install -r requirements.txt' to install required libraries  
 >2)'streamlit run app.py' to host application in local host
  
